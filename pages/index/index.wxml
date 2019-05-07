@@ -4,7 +4,7 @@
     <slider bindchange="slider2change" step="5" />
   </view>
 </view>
-
+<view>1111111111</view>
 <view class="section section_gap">
   <text class="section__title">显示当前value</text>
   <view class="body-view">
