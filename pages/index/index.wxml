@@ -5,6 +5,7 @@
   </view>
 </view>
 <view>1111111111</view>
+<view>222222</view>
 <view class="section section_gap">
   <text class="section__title">显示当前value</text>
   <view class="body-view">
